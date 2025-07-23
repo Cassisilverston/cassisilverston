@@ -9,6 +9,6 @@
 
 -  📌 I'm From Juiz de Fora, MG, Brazil.
 -  💻 Graduating in Software Engineer.
--  🎓 Graduated in Law.
+-  🎓 Lawyer.
 -  🚀 Alura Student.
 
