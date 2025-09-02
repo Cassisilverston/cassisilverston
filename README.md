@@ -1,5 +1,3 @@
-<img src = "banner.gif" width = "230px" align = "right">
-
 # Hi there!👋🏾 Welcome to my Profile!💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/cassiano-silverston/)
