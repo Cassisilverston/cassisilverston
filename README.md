@@ -1,40 +1,102 @@
-# Olá, sou o Cassiano Silverston! 👋🏾
+# 👋🏾 Cassiano Silverston
 
-### ⚖️ Do Direito à Ciência da Computação: Lógica e Rigor
-Sou um profissional em transição de carreira, trazendo o rigor analítico da **Advocacia (OAB ativa)** e a experiência corporativa como **Product Intern na Thomson Reuters (Legal One)** para o desenvolvimento de software. Atualmente, curso **Ciência da Computação** com foco em construir sistemas robustos e escaláveis utilizando as versões mais recentes do ecossistema Microsoft.
+Backend developer em formação, construindo sistemas no ecossistema **.NET** com foco em boas práticas de engenharia, arquitetura limpa e código testável.
 
----
+Sou formado em Direito (OAB ativa) e atuo em transição estruturada para Engenharia de Software, trazendo experiência corporativa como Product Intern na Thomson Reuters (Legal One) e uma base analítica forte para modelagem de regras de negócio.
 
-### 🚀 No que estou trabalhando agora?
 
-* **[Minimal API - Gestão de Veículos](https://github.com/Cassisilverston/minimal-api)**: Meu projeto principal de portfólio. Desenvolvido com **.NET 10 (LTS)** e **C# 14**, aplica **Clean Architecture**, **JWT**, **MySQL** e uma suíte completa de **Testes de Integração (MSTest)** com foco em blindagem e mocks.
-* 🎓 Graduando em **Ciência da Computação**, aprofundando em algoritmos, arquitetura de sistemas e **IA Aplicada**.
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+## 🚀 Projeto em destaque
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend & Core** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/MSTest-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> |
-| **Bancos de Dados** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
-| **Ferramentas & DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Scalar-20B2AA?style=flat-square&logo=scalar&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
+### 🔹 Minimal API — Gestão de Veículos  
+👉 https://github.com/Cassisilverston/minimal-api
+
+Projeto desenvolvido para praticar construção de APIs backend com abordagem profissional:
+
+- API construída com .NET e C#
+- Organização baseada em Clean Architecture
+- Autenticação JWT
+- Persistência com MySQL
+- Testes de integração com MSTest
+- Estrutura preparada para evolução incremental
+
+💡 Este projeto representa minha capacidade atual de estruturar um backend completo pensando em organização, segurança e testabilidade.
 
 ---
 
-### 🧠 O Diferencial do "Mindset" Jurídico no Código
-Acredito que escrever um bom código é como redigir um contrato complexo: exige **lógica inabalável**, **atenção aos detalhes** e **previsão de cenários**.
-* **Compliance & Governança**: Naturalidade para lidar com regras de negócio, proteção de dados (JWT/Secrets) e integridade de sistemas.
-* **Documentação & QA**: Priorizo a clareza técnica. No Direito, o que não está nos autos não está no mundo; no código, o que não é testado não é confiável.
+## 🛠️ Stack atual
+
+### Backend
+- C#
+- .NET
+- Minimal APIs
+- REST
+
+### Dados
+- MySQL
+- SQL Server
+- MongoDB
+
+### Arquitetura e qualidade
+- Clean Architecture
+- Testes automatizados
+- Injeção de dependência
+- Separação de responsabilidades
+
+### Ferramentas
+- Git & GitHub
+- Docker
+- Linux
+- VS Code
 
 ---
 
-### 📫 Vamos nos conectar?
-<div align="left">
+## ⚙️ Como estou evoluindo como engenheiro
+
+Minha jornada de aprendizado é guiada por alguns princípios práticos:
+
+- Priorizar entendimento profundo em vez de apenas finalizar features
+- Refatorar código conforme ganho maturidade técnica
+- Projetar pensando em testabilidade desde o início
+- Documentar decisões importantes
+- Construir projetos incrementais em vez de exemplos descartáveis
+
+---
+
+## 🤖 Uso de IA no desenvolvimento
+
+Utilizo IA como apoio ao raciocínio técnico e produtividade, principalmente para:
+
+- discutir alternativas de design
+- explorar cenários de teste
+- revisar refactors
+- melhorar documentação
+- validar entendimento de conceitos
+
+IA funciona como **copiloto**, enquanto decisões finais permanecem baseadas no meu entendimento.
+
+---
+
+## 🧠 Diferencial da formação jurídica
+
+Minha formação em Direito contribui diretamente para o desenvolvimento backend:
+
+- facilidade na interpretação e modelagem de regras complexas
+- atenção a cenários extremos e validações
+- clareza na comunicação técnica
+- mentalidade orientada a compliance e confiabilidade
+
+---
+
+## 📫 Contato
+
+<p align="left">
   <a href="https://www.linkedin.com/in/cassiano-silverston/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:cassiano.silverston@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-</div>
+</p>
