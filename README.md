@@ -1,4 +1,4 @@
-# 👋🏾 Cassiano Silverston
+# Cassiano Silverston
 
 Backend developer em formação, construindo sistemas no ecossistema **.NET** com foco em boas práticas de engenharia, arquitetura limpa e código testável.
 
@@ -8,7 +8,7 @@ Sou formado em Direito (OAB ativa) e atuo em transição estruturada para Engenh
 
 ---
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 ### 🔹 Minimal API — Gestão de Veículos  
 👉 https://github.com/Cassisilverston/minimal-api
@@ -22,11 +22,11 @@ Projeto desenvolvido para praticar construção de APIs backend com abordagem pr
 - Testes de integração com MSTest
 - Estrutura preparada para evolução incremental
 
-💡 Este projeto representa minha capacidade atual de estruturar um backend completo pensando em organização, segurança e testabilidade.
+- Este projeto representa minha capacidade atual de estruturar um backend completo pensando em organização, segurança e testabilidade.
 
 ---
 
-## 🛠️ Stack atual
+## Stack atual
 
 ### Backend
 - C#
@@ -53,7 +53,7 @@ Projeto desenvolvido para praticar construção de APIs backend com abordagem pr
 
 ---
 
-## ⚙️ Como estou evoluindo como engenheiro
+## Como estou evoluindo como engenheiro
 
 Minha jornada de aprendizado é guiada por alguns princípios práticos:
 
@@ -65,7 +65,7 @@ Minha jornada de aprendizado é guiada por alguns princípios práticos:
 
 ---
 
-## 🤖 Uso de IA no desenvolvimento
+## Uso de IA no desenvolvimento
 
 Utilizo IA como apoio ao raciocínio técnico e produtividade, principalmente para:
 
@@ -79,7 +79,7 @@ IA funciona como **copiloto**, enquanto decisões finais permanecem baseadas no 
 
 ---
 
-## 🧠 Diferencial da formação jurídica
+## Diferencial da formação jurídica
 
 Minha formação em Direito contribui diretamente para o desenvolvimento backend:
 
@@ -90,7 +90,7 @@ Minha formação em Direito contribui diretamente para o desenvolvimento backend
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cassiano-silverston/" target="_blank">
